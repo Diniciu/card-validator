@@ -1,4 +1,3 @@
-# card-validator
 <h1>Explicação do Código</h1>
 <h2>Script Python que valida um número de cartão de crédito e identifica sua bandeira (por exemplo, Visa, MasterCard):</h2>
 
